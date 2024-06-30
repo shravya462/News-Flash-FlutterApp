@@ -1,0 +1,11 @@
+{
+    "newsTitle": "Top Stories",
+    "settingsTitle": "Settings",
+    "switchToLightMode": "Switch To Light Mode",
+    "switchToDarkMode": "Switch To Dark Mode",
+    "language": "Language",
+    "english": "English",
+    "hindi": "Hindi",
+    "error": "Failed to load news articles",
+    "noDataFound": "No Data Found"
+}
